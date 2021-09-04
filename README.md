@@ -1,6 +1,6 @@
 # Meetings
 
-É um projeto baseado no twitter, o intuito é apenas postagens simples de um usuário, nada muito aprofundado.
+It's a twitter-based project, the intent is just simple posts by a user, nothing too deep.
 
 ## O Projeto
 
