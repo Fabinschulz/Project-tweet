@@ -29,4 +29,4 @@ Projeto foi desenvolvido com o intuito de  aperfeiçoar as técnicas de HTML e C
 
 ## Layout
 
-- [Twitter](./assets/img/twitter.png)
+- [Twitter](./assets/img/tweet.png)
