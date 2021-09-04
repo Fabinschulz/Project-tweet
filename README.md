@@ -1,12 +1,12 @@
 # Meetings
 
-É um projeto baseado no twitter, o intuito é apenas postagens simples de um usuário, nada muito aprofundado.
+It's a twitter-based project, the intent is just simple posts by a user, nothing too deep.
 
-## O Projeto
+## Project
 
-Projeto foi desenvolvido com o intuito de  aperfeiçoar as técnicas de HTML e CSS.
+Project was developed in order to improve HTML and CSS techniques.
 
-### Estrutura de arquivos 
+### file structure 
 
 - README.md
 - index.html
@@ -17,15 +17,15 @@ Projeto foi desenvolvido com o intuito de  aperfeiçoar as técnicas de HTML e C
     - /css
         - style.css
 
-### Cores
+### Colors
 
-- Azul principal: #1da1f2;
+- main blue: #1da1f2;
     - Opacidade: 0.4;
-- Cinza: #828282;
-- Cinza escuro: #333333;
-- Cinza azulado: #e7ecf0;
-- Preto: #000000;
-- Branco: #ffffff;
+- Gray: #828282;
+- Dark grey: #333333;
+- bluish gray: #e7ecf0;
+- black: #000000;
+- white: #ffffff;
 
 ## Layout
 
